@@ -1,5 +1,6 @@
-joblib
-scikit-learn
-numpy
-pandas
-streamlit
+streamlit>=1.29,<1.33
+altair<5
+numpy>=1.23,<2.0
+pandas>=1.5,<2.2
+scikit-learn>=1.2,<1.5
+joblib>=1.2
